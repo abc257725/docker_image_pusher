@@ -1,2 +1,2 @@
 influxdb:2.7.10
-influxdb:3.10.0
+influxdb3-core:3.4.2-1

@@ -3,3 +3,4 @@ influxdb:3.4.2-core
 frangoteam/fuxa
 grafana/grafana-oss
 mysql
+influxdb:3.4.2-core

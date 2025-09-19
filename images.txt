@@ -1,4 +1,4 @@
-influxdb:2.7.10
+influxdb:2.7.12
 influxdb:3.4.2-core
 frangoteam/fuxa
 grafana/grafana-oss
